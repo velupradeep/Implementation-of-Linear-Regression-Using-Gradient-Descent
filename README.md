@@ -35,7 +35,7 @@ def linear_regression(X1,y,learning_rate=0.1,num_iters=1000):
         errors=(predictions-y).reshape(-1,1)
         theta-=learning_rate*(1/len(X1))*X.T.dot(errors)
     return theta
-data=pd.read_csv("C50_Startups.csv")
+data=pd.read_csv("C:/Users/admin/Downloads/50_Startups.csv")
 data.head()
 X = (data.iloc[1:,:-2].values)
 X1 =X.astype(float)
@@ -56,7 +56,12 @@ print(f"Predicted value:{pre}")
 ```
 
 ## Output:
-
+![1](https://github.com/rohithprem18/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/146315115/d0013d15-255a-4ce8-b8d9-824e1d5e8204)
+![2](https://github.com/rohithprem18/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/146315115/3ed4aeaf-7e6a-40b0-9ddf-579d2aab59dc)
+![3](https://github.com/rohithprem18/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/146315115/31391540-c63d-4e98-a42f-1a8e9ce2ac35)
+![4](https://github.com/rohithprem18/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/146315115/85e735b4-bc14-4bfa-834a-14a0b1483b20)
+![5](https://github.com/rohithprem18/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/146315115/56261815-8c71-47ce-a835-c25cccea5fe7)
+![6](https://github.com/rohithprem18/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/146315115/8177ec32-5b3d-4258-bdb6-e538c0d823d0)
 
 ## Result:
 Thus the program to implement the linear regression using gradient descent is written and verified using python programming.
