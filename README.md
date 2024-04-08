@@ -86,6 +86,12 @@ print(f"Predicted Value:{pre}")
 
 
 
+
+
+
+
+
+
 ```
 
 
@@ -97,6 +103,12 @@ print(f"Predicted Value:{pre}")
 ![image](https://github.com/velupradeep/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/150329341/303ce4d4-5455-4d97-97f6-767b80caddf9)
 
 ```
+
+
+
+
+
+
 
 
 
