@@ -1,5 +1,4 @@
-                                               #NAME:PRADEEP V
-                                               #REG N0:212223240119
+
 
 # EX-03 Implementation-of-Linear-Regression-Using-Gradient-Descent
 
