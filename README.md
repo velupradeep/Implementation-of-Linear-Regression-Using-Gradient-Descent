@@ -194,6 +194,28 @@ print(f"Predicted Value:{pre}")
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ```
 
 
