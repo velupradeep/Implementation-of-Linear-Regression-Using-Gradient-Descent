@@ -1,5 +1,3 @@
-
-
 # EX-03 Implementation-of-Linear-Regression-Using-Gradient-Descent
 
 ## AIM:
