@@ -111,8 +111,15 @@ print(f"Predicted Value:{pre}")
 
 
 ## Output:
+![image](https://github.com/velupradeep/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/150329341/36f75dc5-b6a5-4407-aa26-873131207a6c)
+![image](https://github.com/velupradeep/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/150329341/c73e1aa6-408d-41b3-8a63-feb0dc522f36)
+![image](https://github.com/velupradeep/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/150329341/5389cca8-021d-47de-99c6-252329ac64df)
+![image](https://github.com/velupradeep/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/150329341/7f43a500-c741-4e0b-8180-c2da84bbb166)
+![image](https://github.com/velupradeep/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/150329341/fb229d58-7592-4c58-9103-ef247a768cd2)
+![image](https://github.com/velupradeep/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/150329341/fb8ef7ef-20be-483c-8555-5ee4647a30b8)
+![image](https://github.com/velupradeep/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/150329341/183da932-bff4-4414-b8e0-c5368bc63174)
+![image](https://github.com/velupradeep/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/150329341/46e6b800-4fa7-4189-907d-fad1906f9285)
 
-```
 
 
 
@@ -138,14 +145,10 @@ print(f"Predicted Value:{pre}")
 
 
 
-```
-![image](https://github.com/velupradeep/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/150329341/077d0ce5-8426-4ee0-8fe3-81e5d81c15dc)
 
 
 
-![image](https://github.com/velupradeep/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/150329341/303ce4d4-5455-4d97-97f6-767b80caddf9)
 
-```
 
 
 
@@ -155,31 +158,22 @@ print(f"Predicted Value:{pre}")
 
 
 
-```
 
 
-![image](https://github.com/velupradeep/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/150329341/a13d70c6-25ea-4e8f-bd50-07138782e3bc)
-![image](https://github.com/velupradeep/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/150329341/82f521df-7448-405d-bfa3-f70a8f3a3130)
 
 
-![image](https://github.com/velupradeep/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/150329341/02604f35-2ad1-435b-820b-ac691bf19679)
 
 
-![image](https://github.com/velupradeep/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/150329341/3431241b-f5c2-4e1d-ba6e-3fb2eab825f2)
 
 
-![image](https://github.com/velupradeep/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/150329341/f992952f-c0c8-4b67-b117-2a541abbaf85)
 
 
-![image](https://github.com/velupradeep/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/150329341/4f45bac5-f15a-41e6-af56-207217a62af7)
 
 
-![image](https://github.com/velupradeep/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/150329341/92e63318-5ecf-439c-aa54-d6bac3b4a8ed)
 
 
 
 
-```
 
 
 
@@ -205,18 +199,6 @@ print(f"Predicted Value:{pre}")
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-```
 
 
 
