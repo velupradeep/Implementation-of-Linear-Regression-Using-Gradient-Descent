@@ -111,9 +111,13 @@ print(f"Predicted Value:{pre}")
 
 
 ## Output:
-![image](https://github.com/velupradeep/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/150329341/36f75dc5-b6a5-4407-aa26-873131207a6c)
 ![image](https://github.com/velupradeep/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/150329341/c73e1aa6-408d-41b3-8a63-feb0dc522f36)
+![image](https://github.com/velupradeep/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/150329341/36f75dc5-b6a5-4407-aa26-873131207a6c)
 ![image](https://github.com/velupradeep/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/150329341/5389cca8-021d-47de-99c6-252329ac64df)
+```
+
+
+```
 ![image](https://github.com/velupradeep/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/150329341/7f43a500-c741-4e0b-8180-c2da84bbb166)
 ![image](https://github.com/velupradeep/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/150329341/fb229d58-7592-4c58-9103-ef247a768cd2)
 ![image](https://github.com/velupradeep/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/150329341/fb8ef7ef-20be-483c-8555-5ee4647a30b8)
