@@ -80,5 +80,6 @@ print(f"Predicted Value:{pre}")
 ![image](https://github.com/velupradeep/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/150329341/348aa47e-c4e2-4cb4-a9d5-709c329d03c5)
 
 ![image](https://github.com/velupradeep/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/150329341/8a5d0c72-c459-4ede-897a-c5b64e285325)
+
 ## Result:
 Thus the program to implement the linear regression using gradient descent is written and verified using python programming.
