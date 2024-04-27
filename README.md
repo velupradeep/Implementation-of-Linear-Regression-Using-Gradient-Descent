@@ -4,7 +4,6 @@ To write a program to predict the profit of a city using the linear regression m
 ## Equipments Required:
 1. Hardware – PCs
 2. Anaconda – Python 3.7 Installation / Jupyter notebook
-
 ## Algorithm
 1. Import necessary libraries including NumPy, Pandas, and StandardScaler from sklearn.
 2. Define a function `linear_regression` which takes input features (X1), target variable (y), learning rate (default value is 0.1), and number of iterations (default value is 1000). This function implements gradient descent to find the optimal parameters for the linear regression model.
@@ -14,11 +13,11 @@ To write a program to predict the profit of a city using the linear regression m
 6. Create a new data point (new_data) and scale it using the same scaler used for the training data. Then, predict the profit for this new data point using the learned parameters (theta).
 7. Inverse transform the predicted profit to get the original scale using the same scaler used for scaling the target variable.
 8. Print the predicted profit.
-```
 
 
 
-```
+
+
 ## Program:
 ```
 Program to implement the linear regression using gradient descent.
@@ -55,7 +54,6 @@ print(prediction)
 print(f"Predicted value:{pre}")
 ```
 ## Output:
-
 ![6](https://github.com/rohithprem18/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/146315115/8177ec32-5b3d-4258-bdb6-e538c0d823d0)
 
 ## Result:
