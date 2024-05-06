@@ -62,19 +62,20 @@ print(f"Predicted Value:{pre}")
 
 ```
 ## Output:
+# X Values
+![326158720-9bf60fa0-af77-42cf-a31d-ea158d181abb](https://github.com/velupradeep/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/150329341/99be1b19-edab-4d57-9a99-430b5837a919)
+# Y Values
+![326158727-3be61adc-d7e3-4d8c-97b4-3e0ac9547133](https://github.com/velupradeep/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/150329341/5ac27f83-360b-4036-8d95-3f216ae2d19c)
+# X Scaled Values
+![326158733-c0b84bd5-3d9e-45f2-8f24-7908acecff74](https://github.com/velupradeep/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/150329341/b4caf973-460c-432e-a1f9-f92c6c2619ee)
+# Y Scaled Values
+![326158906-9d167518-03cc-4e2c-b206-93ac4cf31ba6](https://github.com/velupradeep/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/150329341/6ed269dd-7022-4b26-b1bf-74580f8b4824)
+# Predicted Value
+![326158770-9c78ef45-c44a-4873-8ff1-262becf88045](https://github.com/velupradeep/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/150329341/79210ae5-9af9-4728-9b93-41ac79974118)
 
-# head
-![image](https://github.com/velupradeep/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/150329341/25f8427a-92ac-4609-98a3-251bb4a7884d)
 
-![image](https://github.com/velupradeep/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/150329341/dbdf3f39-e313-43f8-b838-d22f7da1468d)
 
-![image](https://github.com/velupradeep/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/150329341/77ec1c72-8be8-4e3f-9c96-5a388ec96bd4)
-![image](https://github.com/velupradeep/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/150329341/25c28cf7-98b4-49b0-98f7-24749f4d8c2d)
 
-![image](https://github.com/velupradeep/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/150329341/ed6747c9-0030-448f-bbd8-abc1928ed654)
-![image](https://github.com/velupradeep/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/150329341/2fe7e68f-f5fe-4f57-8e8b-96805c8315d8)
-![image](https://github.com/velupradeep/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/150329341/348aa47e-c4e2-4cb4-a9d5-709c329d03c5)
-![image](https://github.com/velupradeep/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/150329341/8a5d0c72-c459-4ede-897a-c5b64e285325)
 
 ## Result:
 Thus the program to implement the linear regression using gradient descent is written and verified using python programming.
